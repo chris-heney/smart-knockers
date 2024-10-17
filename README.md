@@ -8,7 +8,7 @@ Let’s make those **long, tedious walks** smarter, faster, and just a little mo
 
 ## Inspiration
 
-> **Smart Knockers** was inspired by Lindsay Roland and her fellow troops conducting the Lead Service Line Inventory across the nation to make drinking water safer for all Americans as part of the _Get the Lead Out Initiative_ - a joint task initiative of the EPA executed by General Dynamics, Skeo Solutions, and other Environmental Consulting companies.
+> **Smart Knockers** was inspired by Lindsay Roland and her fellow troops conducting the Lead Service Line Inventory across the nation to make drinking water safer for all Americans.
 
 ## Features
 
